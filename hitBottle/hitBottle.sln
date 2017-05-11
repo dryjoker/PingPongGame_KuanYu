@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{53E4EBDA-2807-2284-EFB3-16557BD9CB49}") = "hitBottle", "Assembly-CSharp.csproj", "{D7A1E19B-3E9C-F4FF-0DE0-41C954A7A63A}"
+EndProject
+Project("{53E4EBDA-2807-2284-EFB3-16557BD9CB49}") = "hitBottle", "Assembly-CSharp-Editor.csproj", "{03C26196-30CA-DDEB-384A-E78C66AB4893}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D7A1E19B-3E9C-F4FF-0DE0-41C954A7A63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7A1E19B-3E9C-F4FF-0DE0-41C954A7A63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7A1E19B-3E9C-F4FF-0DE0-41C954A7A63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7A1E19B-3E9C-F4FF-0DE0-41C954A7A63A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{03C26196-30CA-DDEB-384A-E78C66AB4893}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03C26196-30CA-DDEB-384A-E78C66AB4893}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03C26196-30CA-DDEB-384A-E78C66AB4893}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03C26196-30CA-DDEB-384A-E78C66AB4893}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
